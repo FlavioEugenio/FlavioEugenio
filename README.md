@@ -48,7 +48,7 @@
 ## 🌐 Redes & Contato
 
 📌 **LinkedIn:**  
-https://www.linkedin.com/in/flavio-eugênio-fernandes-534893392/
+www.linkedin.com/in/flavio-eugênio-fernandes-534893392
 
 📧 **Email:**  
 flavio.fernandese@gmail.com
