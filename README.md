@@ -18,22 +18,8 @@
 ## 🚀 Tecnologias que uso / estudo
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,html,css,javascript,git,github" />
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,git,github" />
 </p>
-
----
-
-## 📊 Minhas Estatísticas no GitHub
-
-<div align="center">
-
-  <!-- Status -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FlavioEugenio&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
-
-  <!-- Linguagens -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlavioEugenio&layout=compact&theme=radical&hide_border=true"/>
-
-</div>
 
 ---
 
