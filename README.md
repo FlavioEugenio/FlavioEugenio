@@ -11,7 +11,7 @@
 - 💻 Focado em **Java** e **Python**
 - 🚀 Criando projetos reais e evoluindo sempre
 - 🎯 Buscando **estágio em TI / Desenvolvimento**
-- 📘 Dedicado, disciplinado e apaixonado por tecnologia
+- 📘 Dedicado e disciplinado 
 
 ---
 
