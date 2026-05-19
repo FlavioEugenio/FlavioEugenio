@@ -1,44 +1,45 @@
-<!-- Título Animado -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=9A5BFF&size=32&center=true&vCenter=true&width=800&lines=Olá,+eu+sou+o+Flávio+Eugênio!;Estudante+de+Ciência+da+Computação;Desenvolvedor+em+formação;Java+%26+Python+🚀">
-</h1>
-
+# Olá, sou Flávio Eugênio 👋
+ 
+Estudante de Ciência da Computação, empreendedor e desenvolvedor backend em formação. Fundei minha própria empresa de lavanderia industrial atendendo **15 postos de gasolina** no segmento B2B — e foi resolvendo problemas reais do negócio que comecei a programar de verdade.
+ 
 ---
-
-## 👨‍💻 Sobre mim
-
-- 🎓 Estudante de **Ciência da Computação**
-- 💻 Focado em **Java** e **Python**
-- 🚀 Criando projetos reais e evoluindo sempre
-- 🎯 Buscando **estágio em TI / Desenvolvimento**
-- 📘 Dedicado e disciplinado 
-
+ 
+## 🚀 O que estou construindo
+ 
+### 🧾 Sistema de Relatórios — Lavanderia Industrial (Python + OCR)
+> Automação que lê dados de cadernos físicos via scanner, processa com OCR e gera relatórios semanais em **PDF e Excel** para clientes B2B. Em desenvolvimento.
+ 
+### 💰 Controle Financeiro Pessoal (Java + Spring Boot)
+> API REST com gerenciamento de categorias, lançamentos e contatos, usando padrões REST, DTOs e Repository Pattern.
+> 🔗 [Ver repositório](https://github.com/FlavioEugenio/Projeto-financeiro---backend-)
+ 
+### 🎮 Sistema de Report — Servidor Minecraft (Java)
+> Sistema de moderação para servidor Minecraft onde jogadores podem reportar outros jogadores. Em desenvolvimento.
+ 
 ---
-
-## 🚀 Tecnologias que uso / estudo
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,git,github" />
-</p>
-
+ 
+## 🛠️ Stack
+ 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+ 
 ---
-
-## 🐍 Contribuições animadas
-
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
+ 
+## 🏆 Certificações
+ 
+- 📜 **Inova Campus 2025** — UNIESP Centro Universitário (20h)
+- 🔐 **Beyond the Firewall: Cybersecurity Workshop** — Inova UNIESP 2025 (20h)
 ---
-
-## 🌐 Redes & Contato
-
-📌 **LinkedIn:**  
-www.linkedin.com/in/flavio-eugênio-fernandes-534893392
-
-📧 **Email:**  
-flavio.fernandese@gmail.com
-
+ 
+## 📫 Contato
+ 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Flávio_Eugênio-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/flavio-eugênio-fernandes-534893392)
+[![Upwork](https://img.shields.io/badge/Upwork-Flávio_F.-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01e7957e62a12cd9db)
+ 
+✉️ flavio.fernandese@gmail.com
+ 
 ---
-
-<h3 align="center">✨ Obrigado por visitar meu perfil! ✨</h3>
+ 
+> *"Com 20 anos, duas empresas e código rodando em produção — minha vida só tá começando."*
