@@ -35,7 +35,7 @@ Estudante de Ciência da Computação, empreendedor e desenvolvedor backend em f
  
 ## 📫 Contato
  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Flávio_Eugênio-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/flavio-eugênio-fernandes-534893392)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Flávio_Eugênio-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/flavio-eug%C3%AAnio-eug%C3%AAnio-534893392/)
 [![Upwork](https://img.shields.io/badge/Upwork-Flávio_F.-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01e7957e62a12cd9db)
  
 ✉️ flavio.fernandese@gmail.com
