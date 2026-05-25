@@ -59,3 +59,5 @@ Estudante de Ciência da Computação, empreendedor e desenvolvedor backend em f
 ---
  
 > *"Com 20 anos, duas empresas e código rodando em produção — minha vida só tá começando."*
+
+![Snake](https://raw.githubusercontent.com/FlavioEugenio/FlavioEugenio/output/github-contribution-grid-snake-dark.svg)
